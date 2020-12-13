@@ -18,8 +18,8 @@ export default [
   },
   {
     _tag: 'CSidebarNavItem',
-    name: 'Colors',
-    to: '/theme/colors',
+    name: 'Thao',
+    to: '/thao',
     icon: 'cil-drop',
   },
   {
